@@ -1,4 +1,10 @@
-**Attributes for Triggering Requests:**
+# HTMX Cheatsheet
+
+A comprehensive guide to HTMX attributes, patterns, and best practices.
+
+## Basic Request Attributes
+
+### HTTP Methods
 
 1. `hx-get`, `hx-post`, `hx-put`, `hx-delete`: Define HTTP methods for triggering requests.
    Example: `<button hx-get="/api/data">Get Data</button>`
